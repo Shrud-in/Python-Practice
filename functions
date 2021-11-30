@@ -1,0 +1,3 @@
+def greeting(name,dept):
+  print("Welcome, " +name)
+  proint("You belong to " +dept+ " Department.")
