@@ -1,3 +1,4 @@
 def greeting(name,dept):
-  print("Welcome, " +name)
-  proint("You belong to " +dept+ " Department.")
+  print("Welcome, " +str(name))
+  print("You belong to " +dept+ " Department.")
+greeting("shrudin","Mechanical")
